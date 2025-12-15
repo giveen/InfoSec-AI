@@ -74,3 +74,6 @@ CAI_GUARDRAILS=false
 ```bash
 cai  # first launch it can take up to 30 seconds
 ```
+
+# CAI Usage Guide
+https://aliasrobotics.github.io/cai/
