@@ -1,7 +1,7 @@
 # ⚙️ Setting up CAI (Cybersecurity AI) on Linux
 
 CAI is an open‑source framework for benchmarking, evaluating, and automating infosec workflows with local LLMs.  
-Follow these steps to install and run CAI in a clean Python environment.
+Follow these steps to install and run CAI in a clean Python environment. This will be done inside your Kali VM
 
 ```bash
 sudo apt-get update && \
