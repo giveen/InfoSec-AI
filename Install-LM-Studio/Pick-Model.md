@@ -23,6 +23,7 @@ For each model, LM Studio shows:
 - **Quantization formats** (e.g., Q4_K_M, Q8_0) to balance speed vs accuracy.
 - **VRAM requirements** (important for GPU compatibility).
 - **Tags** (chat, instruct, reasoning, etc.).
+- **Tool Capable** (look for models that support tools).
 
 ---
 
