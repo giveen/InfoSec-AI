@@ -12,7 +12,7 @@ Running Kali in a VM provides isolation from your host system, snapshot support,
    - **Type**: Linux  
    - **Version**: Debian (64‑bit)
 
-![New VM Wizard](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/new-vm.png)
+![New VM Wizard](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/vb-01.png)
 
 ---
 
